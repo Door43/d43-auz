@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[auz:home|Door43 (auz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-auz|d43-auz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-auz/archive/master.zip|d43-auz.zip]]
+
+**Recent Changes**
+{{changes>ns = auz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/auz|Ethnologue data]]
+
